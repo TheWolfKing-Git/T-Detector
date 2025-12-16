@@ -1,7 +1,7 @@
 # TruckDetector
 
 Disclaimer
-This is personal, hobbyist “home-cooked” software provided for free and with no guarantees. 
+This is personal, hobbyist software provided for free and with no guarantees. 
 It may contain bugs, may break, and may not be suitable for any particular purpose.
 You use this software entirely at your own risk. The author(s) are not responsible for any loss, damage, or issues that result from using, modifying, or distributing this software.
 Automates finding trucks on the map, checking their inventory for a specific item, and pausing on the first truck that has **3+** of that item.
